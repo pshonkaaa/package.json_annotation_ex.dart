@@ -1,0 +1,10 @@
+name: json_annotation_ex
+description: json_annotation_ex
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+dependencies:
+  json_annotation: any
