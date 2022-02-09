@@ -1,7 +1,7 @@
 library truecollaboration.json_annotation_ex;
 
 class JsonSerializableEx {
-  /// Means, ignore fields havent annotation `JsonFieldEx`
+  /// Ignore fields havent annotation `@JsonFieldEx`
   final bool ignoreFields;
 
   /// True, if model is JsonObjectEx. False, if JsonArrayEx
