@@ -43,6 +43,10 @@ enum FieldRename {
 
   /// Encodes a field named `kebabCase` with a JSON key `kebab-case`.
   kebab,
+  
+  camel,
+
+  constant,
 
   /// Encodes a field named `snakeCase` with a JSON key `snake_case`.
   snake,
